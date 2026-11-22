@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=000000&width=435&lines=Hello%2C+I+am+Bryant+Duong" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&&width=435&lines=Hello%2C+I+am+Bryant+Duong" alt="Typing SVG" /></a>
 ### About me
 I am a second-year Genomics & Computational Biology PhD student at the University of Pennsylvania advised by Dr. Noam Auslander and Dr. Li Shen, where I apply deep learning techniques and agentic AI frameworks to uncover shared mechanisms across cancers and neurodegenerative diseases. 
 
