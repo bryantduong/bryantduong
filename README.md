@@ -9,13 +9,13 @@ Before my PhD, I spent more than six years as lead software engineer, building 1
 To find out more about me, visit the links below!
 
 <div>
-  <a href="WEBSITE_URL">
+  <a href="https://bryantduong.github.io">
     <img src="https://img.shields.io/badge/Website-D9BED1?style=for-the-badge&logoColor=white" alt="Personal website">
   </a>
-  <a href="SUBSTACK_URL">
+  <a href="https://substack.com/@bryantduong">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack">
   </a>
-  <a href="SCHOLAR_URL">
+  <a href="https://scholar.google.com/citations?user=Uk29CPQAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
 </div>
