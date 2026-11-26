@@ -22,4 +22,4 @@ To find out more about me, visit the links below!
 
 ### CV
 > [!IMPORTANT]
-> <a href="CV_URL">View my CV</a>
+> <a href="https://bryantduong.github.io/assets/cv.pdf">View my CV</a>
